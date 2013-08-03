@@ -1,0 +1,13 @@
+*.pyc
+*.egg-info
+*.egg
+*.DS_Store
+*.sqlite
+*.sw?
+.tox
+.coverage
+dist
+_build
+build
+.idea
+
